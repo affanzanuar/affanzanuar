@@ -1,5 +1,5 @@
 ![MasterHead](https://www.androiddeveloper.co.in/blog/wp-content/uploads/2016/03/Android-App-Development-2.jpg)
-<h1 align="center">Greetings 👋, I'm Affan Zanuar</h1>
+<h1 align="center">Greetings 👋, I'm Affan</h1>
 <h3 align="center">An graduated student at Universitas Islam Indonesia Yogyakarta, majoring in Accounting. I am passionate about UI Design and Android Developer.</h3>
 
 
