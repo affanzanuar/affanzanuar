@@ -1,4 +1,4 @@
-![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
+![MasterHead](https://www.androiddeveloper.co.in/blog/wp-content/uploads/2016/03/Android-App-Development-2.jpg)
 <h1 align="center">Greetings 👋, I'm Affan Zanuar</h1>
 <h3 align="center">An graduated student at Universitas Islam Indonesia Yogyakarta, majoring in Accounting. I am passionate about UI Design and Android Developer.</h3>
 
@@ -14,8 +14,8 @@
 
 - ⚡ Fun fact **I like to spend time on some code**
 
+![](https://github-profile-trophy.vercel.app/?username=affanzanuar&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=affanzanuar" alt="affanzanuar" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
