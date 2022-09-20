@@ -1,5 +1,4 @@
 [![logo-az-for-linkdin-bl.jpg](https://i.postimg.cc/1XMKf71m/logo-az-for-linkdin-bl.jpg)](https://postimg.cc/ctg3zmJ2)
-<h1 align="center">Greetings 👋, I'm Affan</h1>
 <h3 align="center">An graduated student at Universitas Islam Indonesia Yogyakarta, majoring in Accounting. I am passionate about UI Design and Android Developer.</h3>
 
 
