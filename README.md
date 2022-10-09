@@ -5,13 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=affanzanuar&label=Profile%20views&color=0e75b6&style=flat" alt="affanzanuar" /> </p>
 
 
-- 🌱 I’m currently learning **Java and Kotlin**
+- I’m currently learning **Java and Kotlin**
 
-- 💬 Ask me about **Android**
-
-- 📫 How to reach me **affan.rafsanjani@gmail.com**
-
-- ⚡ Fun fact **I like to spend time on some code**
+- How to reach me **affan.rafsanjani@gmail.com**
 
 ![](https://github-profile-trophy.vercel.app/?username=affanzanuar&theme=monokai&no-frame=false&no-bg=false&margin-w=4)
 
