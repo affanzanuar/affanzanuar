@@ -1,4 +1,4 @@
-<h3 align="center">Full-Stack Developer & UI/UX Designer</h3>
+<h3 align="center">Full-Stack Developer</h3>
 <p align="center">Accounting graduate from Universitas Islam Indonesia Yogyakarta — building web and mobile products with clean code and thoughtful design.</p>
 
 <p align="center">
