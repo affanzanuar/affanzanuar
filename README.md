@@ -7,7 +7,9 @@
 
 ---
 
-- 🔭 Currently working on web platforms using **Laravel, Next.js, and Node.js**
+- 💼 Android Developer at **Indodax**
+- 🔭 Building web platforms with **Laravel, Next.js, and Node.js** on the side
+- 🏗️ Care about **SOLID principles** and **Clean Architecture**
 - 🎨 Passionate about **UI/UX Design** and building intuitive user experiences
 - 📬 Reach me at **affan.rafsanjani@gmail.com**
 
@@ -52,6 +54,8 @@
   <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="36" height="36" alt="Git" /></a>
   <a href="https://postman.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="36" height="36" alt="Postman" /></a>
   <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="36" height="36" alt="Android" /></a>
+  <a href="https://www.docker.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="36" height="36" alt="Docker" /></a>
+  <a href="https://github.com/features/actions" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" width="36" height="36" alt="GitHub Actions" /></a>
 </p>
 
 ---
